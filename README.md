@@ -4,7 +4,8 @@ Code-Fellows reading notes.
 
 ## Growth Mindset interpretation
 ---
-### Brian Kasprzyk  ![](profile1small.png)
+ ![](profile1small.png)
+### Brian Kasprzyk 
 Student of [CodeFellows](https://www.codefellows.org/) 
 
 In my eyes, to evolve your intellect and perform at a competitive rate one must apply a growth mindset. To shift your mental paradigm into the next *dimension* of thought, one could consider to open their brain to the **abundance**  of knowledge out there.
