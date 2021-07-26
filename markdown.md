@@ -4,7 +4,7 @@ Markdown Topic Lab:01B
 
 ## Heading 2
 
-< Code block >
+< code block >
 
 < code block >
 
