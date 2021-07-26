@@ -4,10 +4,12 @@ Markdown Topic Lab:01B
 
 ## Heading 2
 
-> Code block
-> code block
+< Code block >
+
+< code block >
 
 - ordered list
+-- list
 
 **bold text**
 
