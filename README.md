@@ -22,4 +22,4 @@ In my eyes, to evolve your intellect and perform at a competitive rate one must 
 
 - [Markdown](https://bkasprzyk19.github.io/reading-notes/markdown.md)
 - [CodersComputer](https://bkasprzyk19.github.io/reading-notes/coderscomputer.md)
-- [Revisions_and_the_Cloud](https://bkasprzyk19.github.io/reading-notes/revisions-and-the-cloud.md)
+- [Revisions_and_the_Cloud](https://bkasprzyk19.github.io/reading-notes/revisions_and_the_cloud.md)
