@@ -18,4 +18,3 @@ In my eyes, to evolve your intellect and perform at a competitive rate one must 
 - Able to perceive the world through multiple points of view, stepping into other's shoes and considering all available perspective
 
 
-#  Header
