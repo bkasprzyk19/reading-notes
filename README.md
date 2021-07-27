@@ -20,5 +20,5 @@ In my eyes, to evolve your intellect and perform at a competitive rate one must 
 
 #### Table of Contents
 
-- [Computer_Commands](https://bkasprzyk19.github.io/reading-notes/computer-command-lines.md)
-- [MD notes](https://bkasprzyk19.github.io/reading-notes/markdown.md)
+- [CodersComputer](https://bkasprzyk19.github.io/reading-notes/computer-command-lines.md)
+- [Markdown](https://bkasprzyk19.github.io/reading-notes/markdown.md)
