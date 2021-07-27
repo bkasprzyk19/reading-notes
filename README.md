@@ -20,6 +20,7 @@ To evolve your intellect and perform at a competitive rate one must apply a grow
 
 #### Table of Contents
 
-- [Markdown](https://bkasprzyk19.github.io/reading-notes/markdown)
-- [CodersComputer](https://bkasprzyk19.github.io/reading-notes/coderscomputer)
-- [Revisions_and_the_Cloud](https://bkasprzyk19.github.io/reading-notes/revisions_and_the_cloud)
+- [Markdown](https://bkasprzyk19.github.io/reading-notes/markdown.md)
+- [CodersComputer](https://bkasprzyk19.github.io/reading-notes/coderscomputer.md)
+- [Revisions_and_the_Cloud](https://bkasprzyk19.github.io/reading-notes/revisions_and_the_cloud.md)
+- [html_structure](https://bkasprzyk19.github.io/reading-notes/html_structure.md)
