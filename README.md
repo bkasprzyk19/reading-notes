@@ -23,6 +23,7 @@ To evolve your intellect and perform at a competitive rate one must apply a grow
 - [html_structure](https://bkasprzyk19.github.io/reading-notes/html_structure)
 - [design_CSS](https://bkasprzyk19.github.io/reading-notes/design_css)
 - [Dynamic_webJS](https://bkasprzyk19.github.io/reading-notes/dynamic_webJS)
+- [Programming_JS](https://bkasprzyk19.github.io/reading-notes/programming_JavaScript)
 
 #### reading-notes
 Code-Fellows reading notes.
