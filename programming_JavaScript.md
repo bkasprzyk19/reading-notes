@@ -1,8 +1,8 @@
 <button>CTRL</button> + /      'comment out code'
 
-![](JScommands.png)
+![](JScommands.PNG)
 <br>
-![](22.png)
+![](22.PNG)
 <br>
 
 
