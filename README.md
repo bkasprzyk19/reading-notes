@@ -5,6 +5,12 @@
 ### Brian Kasprzyk 
 Student of [CodeFellows](https://www.codefellows.org/) 
 
+
+Welcome ! 
+
+Please find your desired Chapter to continue study..
+
+
 To evolve your intellect and perform at a competitive rate one must apply a growth mindset. To shift your mental paradigm into the next *dimension* of thought, one could consider to open their brain to the **abundance**  of knowledge out there.
 
 ***
@@ -16,6 +22,15 @@ To evolve your intellect and perform at a competitive rate one must apply a grow
 
 
 #### Table of Contents
+
+
+## Chapter 2 (Code 201)
+
+- [class-01](https://bkasprzyk19.github.io/reading-notes/class-01)
+
+
+
+## Chapter 1 (Code 102)
 
 - [Markdown](https://bkasprzyk19.github.io/reading-notes/markdown)
 - [CodersComputer](https://bkasprzyk19.github.io/reading-notes/coderscomputer)
