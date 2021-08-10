@@ -17,17 +17,21 @@ li {color: goldenrod}
   <main>
    <p>We can help you find your favorite Beach!</p>
    <ul>
-
-    <li>dream big</li>
     <li style="font-size: 18px;">ultimate sunny vacations</li>
-    <img src="https://lh3.googleusercontent.com/proxy/WMj1krCAaz4iIzlS9zWAVW5Ck4guDW39xrGbKS9pmlgYCQTBnRXgBh1T8cP6XH9B1l-8B4IRolaWZPiYrJzD9AXhUdNWZTA">
+    <li>dream big</li>
+
+     
+    
+    <img src="https://www.maxpixel.net/static/photo/1x/Snowman-Hat-Winter-Cold-Christmas-Snow-Scarf-5541439.png">
 
   </ul>
 
 </main>
 <footer>  
- <h2>Check out our partner site, the Iceberg Index !</h2>
-
+ <h2>Check out our partner site, the <a href="https://www.youtube.com/watch?v=F8rzb4nQs5I">Iceberg Index</a> !</h2>
+ <br>
+ <p>This page is under construction.  <a href="https://youtu.be/rYv9JZ2XBW4"><img src="cone1.png" class="shrinkToFit" width="20" height="20"></a>
+  </p>   
 </footer>
 
 </body>
@@ -45,21 +49,33 @@ li {color: goldenrod}
   // debugger;
   console.log('The userName is ' + userName); 
   let alertReturn = alert('Welcome to the page ' + userName);
-  let userBeach= prompt('Did you bring your beach umbrella?');
 
+  let userBeach= prompt('Did you bring your beach umbrella?');
+  
+  if(userBeach.toLowerCase() =='yes'){
+    alert('Awesome Job ' + userName + '!');
+    
+  }
+  if(userBeach.toLowerCase() =='no'){
+  alert('Why not?');
+  
+  }
+  
+  if(userBeach.toLowerCase() !=='yes' && userBeach.toLowerCase() !=='no'){
+  alert('Confused?');
+  };
+
+  let person= prompt('what hand do you write with?');
+  if(person.toLowerCase() =='right'){
+    alert('You have unlocked the ultimate beach package discount. We will be contacting you by telephone in the next 24 hours.');
+    
+  }
+  if(person.toLowerCase() =='left'){
+  alert('Please close your browser and do not return.');}
+  
   // the default return value is undefined
   // the return value of an alert 
 </script>
-
-
-
-
-
-
-
-
-
-
 
 
 </html>
