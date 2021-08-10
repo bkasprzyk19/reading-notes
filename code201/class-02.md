@@ -1,4 +1,4 @@
-## soon to be notes but i broke the code
+## soon to be notes but i broke it
 
 ## Reading
 
