@@ -70,3 +70,18 @@
 ## OBJECT CONSTRUCTOR NOTATION
 
 **OBJECT --  PROPERTY NAME -- PROPERTY VALUE**
+
+
+``` javascript
+
+var hotel = {
+ name: 'Quay',
+ rooms: 40,
+ booked: 25,
+
+checkAvvailability: function() { return this.rooms - this.booked;}
+
+
+}
+
+ ```
