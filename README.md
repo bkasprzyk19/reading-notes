@@ -38,6 +38,7 @@ To evolve your intellect and perform at a competitive rate one must apply a grow
 - [class-10](https://bkasprzyk19.github.io/reading-notes/class-10)
 - [class-11](https://bkasprzyk19.github.io/reading-notes/class-11)
 - [class-12](https://bkasprzyk19.github.io/reading-notes/class-12)
+- [class-13](https://bkasprzyk19.github.io/reading-notes/class-13)
 
 
 
