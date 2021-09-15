@@ -47,3 +47,19 @@ Give an example of using the spread operator to combine two objects into one
 const objectsCombined = {...firstObj,...secondObj, thirdObj: emoji smile};
 
 objects combines, firstObj, secondObj, and emoji smile
+
+In the video, what is the first step that the developer does to pass functions between components?
+
+create the function whereever the state is that is going to change. called increment, passed in a person object, which count to increment
+
+In your own words, what does the increment function do?
+How can you pass a method from a parent component into a child component?
+
+it loops through an array using the map method to create the new array of the same length using updated counts based on a name. 
+
+How does the child component invoke a method that was passed to it from a parent component?
+
+call the function in the child
+
+ increment = {this.increment}
+ place this.props.increment(this.props.name) in the increment 
