@@ -43,4 +43,4 @@ handleInpoutChange(event) {
  console.log(false);
   }
 
-  condition ? x===y 
+  condition ? (x===y) value if true :  if false
