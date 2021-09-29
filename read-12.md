@@ -4,18 +4,30 @@
 Reading
 Status Codes Based On REST Methods
 In your own words, describe what each group of status code represents:
-100’s =
-200’s =
-300’s =
-400’s =
-500’s =
-What is a status code 202?
-What is a status code 308?
+
+100’s = informational status codes, usually tell client that the header code was received and it will continue using a diuff protocol or let u know it failed.
+
+200’s = success codes! accepted
+
+
+300’s = redirection codes, it meets all validation requirements at the time of sending though
+
+400’s =  client error codes.
+
+500’s = server error codes
+
+What is a status code 202? accepted, often used for async processing. request was valid, processing will 
+finish sometime in the future. 'await'
+
+What is a status code 308? Permanent redirect
+
 What code would you use if an update didn’t return data to a client?
+
 What code would you use if a resource used to exist but no longer does?
+
 What is the ‘Forbidden’ status code?
 
-
+403 forbidden no permissions to access the resources.
 
 
 
