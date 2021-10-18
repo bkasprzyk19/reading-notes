@@ -1,29 +1,30 @@
-
 ## Growth Mindset interpretation
+
 ---
- ![](profile1small.png)
-### Brian Kasprzyk 
-Student of [CodeFellows](https://www.codefellows.org/) 
 
+![](profile1small.png)
 
-Welcome ! 
+### Brian Kasprzyk
+
+Student of [CodeFellows](https://www.codefellows.org/)
+
+Welcome !
 
 Please find your desired Chapter to continue study..
 
+To evolve your intellect and perform at a competitive rate one must apply a growth mindset. To shift your mental paradigm into the next _dimension_ of thought, one could consider to open their brain to the **abundance** of knowledge out there.
 
-To evolve your intellect and perform at a competitive rate one must apply a growth mindset. To shift your mental paradigm into the next *dimension* of thought, one could consider to open their brain to the **abundance**  of knowledge out there.
-
-***
+---
 
 #### **Reminders:**
+
 - Willingness to open your mind and change what you think you know
 - Receptive to the wealth of information in the world
 - Able to perceive the world through multiple points of view, stepping into other's shoes and considering all available perspective
 
-
 #### Table of Contents
 
-## Chapter 4 
+## Chapter 4
 
 - [introductions](https://bkasprzyk19.github.io/reading-notes/introductions)
 
@@ -44,7 +45,6 @@ To evolve your intellect and perform at a competitive rate one must apply a grow
 - [read-13](https://bkasprzyk19.github.io/reading-notes/read-13)
 - [read-14](https://bkasprzyk19.github.io/reading-notes/read-14)
 
-
 ## Chapter 2 (Code 201)
 
 - [class-01](https://bkasprzyk19.github.io/reading-notes/class-01)
@@ -62,9 +62,6 @@ To evolve your intellect and perform at a competitive rate one must apply a grow
 - [class-13](https://bkasprzyk19.github.io/reading-notes/class-13)
 - [class-14](https://bkasprzyk19.github.io/reading-notes/class-14)
 
-
-
-
 ## Chapter 1 (Code 102)
 
 - [Markdown](https://bkasprzyk19.github.io/reading-notes/markdown)
@@ -76,6 +73,6 @@ To evolve your intellect and perform at a competitive rate one must apply a grow
 - [Programming_JS](https://bkasprzyk19.github.io/reading-notes/programming_JavaScript)
 - [operators_loops](https://bkasprzyk19.github.io/reading-notes/operators_loops)
 
-
 #### reading-notes
+
 Code-Fellows reading notes.
