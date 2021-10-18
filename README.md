@@ -23,6 +23,10 @@ To evolve your intellect and perform at a competitive rate one must apply a grow
 
 #### Table of Contents
 
+## Chapter 4 
+
+- [introductions](https://bkasprzyk19.github.io/reading-notes/introductions)
+
 ## Chapter 3 (Code 301)
 
 - [read-01](https://bkasprzyk19.github.io/reading-notes/read-01)
